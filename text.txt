@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4A1C-B302
+
+ Directory of C:\Users\stg12\OneDrive - Aberystwyth University\GitReps\new
+
+01/05/2024  14:44    <DIR>          .
+01/05/2024  14:42    <DIR>          ..
+01/05/2024  14:44                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  14,644,207,616 bytes free
